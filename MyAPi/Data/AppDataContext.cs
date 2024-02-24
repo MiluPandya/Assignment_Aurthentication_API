@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.InMemory;
+using Microsoft.EntityFrameworkCore.Design;
 using MyClassLibrary;
 namespace MyAPi.Data;
 
